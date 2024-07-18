@@ -1,0 +1,16 @@
+{
+  "apiID": "package_3f3c87__c__function_m2lrtds6cnabq",
+  "apiName": "test2",
+  "label": {
+    "zh_CN": "test 2",
+    "en_US": "test 2"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
